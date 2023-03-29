@@ -1,0 +1,35 @@
+<DATA>
+
+	<ROW>
+		<raceId>10078</raceId>
+		<year>2009</year>
+		<round>1</round>
+		<circuitId>1</circuitId>
+		<name>Australian Grand Prix</name>
+		<date>2009-03-29</date>
+		<time>06:00:00</time>
+		<url>1</url>
+	</ROW>
+
+	<ROW>
+		<raceId>10093</raceId>
+		<year>2008</year>
+		<round>1</round>
+		<circuitId>1</circuitId>
+		<name>Australian Grand Prix</name>
+		<date>2008-03-16</date>
+		<time>04:30:00</time>
+		<url>http://en.wikipedia.org/wiki/2008_Australian_Grand_Prix</url>
+	</ROW>
+
+	<ROW>
+		<raceId>55</raceId>
+		<year>2006</year>
+		<round>3</round>
+		<circuitId>1</circuitId>
+		<name>Australian Grand Prix</name>
+		<date>2006-04-02</date>
+		<time>14:00:00</time>
+		<url>http://en.wikipedia.org/wiki/2006_Australian_Grand_Prix</url>
+	</ROW>
+</DATA>

@@ -1,0 +1,35 @@
+<DATA>
+
+	<ROW>
+		<raceId>19</raceId>
+		<year>2008</year>
+		<round>2</round>
+		<circuitId>2</circuitId>
+		<name>Malaysian Grand Prix</name>
+		<date>2008-03-23</date>
+		<time>07:00:00</time>
+		<url>http://en.wikipedia.org/wiki/2008_Malaysian_Grand_Prix</url>
+	</ROW>
+
+	<ROW>
+		<raceId>34</raceId>
+		<year>2008</year>
+		<round>17</round>
+		<circuitId>17</circuitId>
+		<name>Chinese Grand Prix</name>
+		<date>2008-10-19</date>
+		<time>07:00:00</time>
+		<url>http://en.wikipedia.org/wiki/2008_Chinese_Grand_Prix</url>
+	</ROW>
+
+	<ROW>
+		<raceId>37</raceId>
+		<year>2007</year>
+		<round>2</round>
+		<circuitId>2</circuitId>
+		<name>Malaysian Grand Prix</name>
+		<date>2007-04-08</date>
+		<time>07:00:00</time>
+		<url>http://en.wikipedia.org/wiki/2007_Malaysian_Grand_Prix</url>
+	</ROW>
+</DATA>
